@@ -1,0 +1,233 @@
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
+"i-0f71cb8711ded088e"
++ aws s3 ls
++ aws iam list-users
+{
+    "Users": []
+}
++ aws lambda list-functions
+{
+    "Functions": []
+}
+++ date
++ echo 'cron is working fine Thu Oct 23 21:20:11 IST 2025'
+cron is working fine Thu Oct 23 21:20:11 IST 2025
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
+"i-0f71cb8711ded088e"
++ aws s3 ls
++ aws iam list-users
+{
+    "Users": []
+}
++ aws lambda list-functions
+{
+    "Functions": []
+}
+++ date
++ echo 'cron is working fine Thu Oct 23 21:21:11 IST 2025'
+cron is working fine Thu Oct 23 21:21:11 IST 2025
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
+"i-0f71cb8711ded088e"
++ aws s3 ls
++ aws iam list-users
+{
+    "Users": []
+}
++ aws lambda list-functions
+{
+    "Functions": []
+}
+++ date
++ echo 'cron is working fine Thu Oct 23 21:22:06 IST 2025'
+cron is working fine Thu Oct 23 21:22:06 IST 2025
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
+"i-0f71cb8711ded088e"
++ aws s3 ls
++ aws iam list-users
+{
+    "Users": []
+}
++ aws lambda list-functions
+{
+    "Functions": []
+}
+++ date
++ echo 'cron is working fine Thu Oct 23 21:23:11 IST 2025'
+cron is working fine Thu Oct 23 21:23:11 IST 2025
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
+"i-0f71cb8711ded088e"
++ aws s3 ls
++ aws iam list-users
+{
+    "Users": []
+}
++ aws lambda list-functions
+{
+    "Functions": []
+}
+++ date
++ echo 'cron is working fine Thu Oct 23 21:24:11 IST 2025'
+cron is working fine Thu Oct 23 21:24:11 IST 2025
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
+"i-0f71cb8711ded088e"
++ aws s3 ls
++ aws iam list-users
+{
+    "Users": []
+}
++ aws lambda list-functions
+{
+    "Functions": []
+}
+++ date
++ echo 'cron is working fine Thu Oct 23 21:25:12 IST 2025'
+cron is working fine Thu Oct 23 21:25:12 IST 2025
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
+"i-0f71cb8711ded088e"
++ aws s3 ls
++ aws iam list-users
+{
+    "Users": []
+}
++ aws lambda list-functions
+{
+    "Functions": []
+}
+++ date
++ echo 'cron is working fine Thu Oct 23 21:26:09 IST 2025'
+cron is working fine Thu Oct 23 21:26:09 IST 2025
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
+"i-0f71cb8711ded088e"
++ aws s3 ls
++ aws iam list-users
+{
+    "Users": []
+}
++ aws lambda list-functions
+{
+    "Functions": []
+}
+++ date
++ echo 'cron is working fine Thu Oct 23 21:27:10 IST 2025'
+cron is working fine Thu Oct 23 21:27:10 IST 2025
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
+"i-0f71cb8711ded088e"
++ aws s3 ls
++ aws iam list-users
+{
+    "Users": []
+}
++ aws lambda list-functions
+{
+    "Functions": []
+}
+++ date
++ echo 'cron is working fine Thu Oct 23 21:28:08 IST 2025'
+cron is working fine Thu Oct 23 21:28:08 IST 2025
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
+"i-0f71cb8711ded088e"
++ aws s3 ls
++ aws iam list-users
+{
+    "Users": []
+}
++ aws lambda list-functions
+{
+    "Functions": []
+}
+++ date
++ echo 'cron is working fine Thu Oct 23 21:29:08 IST 2025'
+cron is working fine Thu Oct 23 21:29:08 IST 2025
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
+"i-0f71cb8711ded088e"
++ aws s3 ls
++ aws iam list-users
+{
+    "Users": []
+}
++ aws lambda list-functions
+{
+    "Functions": []
+}
+++ date
++ echo 'cron is working fine Thu Oct 23 21:30:13 IST 2025'
+cron is working fine Thu Oct 23 21:30:13 IST 2025
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
+"i-0f71cb8711ded088e"
++ aws s3 ls
++ aws iam list-users
+{
+    "Users": []
+}
++ aws lambda list-functions
+{
+    "Functions": []
+}
+++ date
++ echo 'cron is working fine Thu Oct 23 21:31:07 IST 2025'
+cron is working fine Thu Oct 23 21:31:07 IST 2025
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
+"i-0f71cb8711ded088e"
++ aws s3 ls
++ aws iam list-users
+{
+    "Users": []
+}
++ aws lambda list-functions
+{
+    "Functions": []
+}
+++ date
++ echo 'cron is working fine Thu Oct 23 21:32:09 IST 2025'
+cron is working fine Thu Oct 23 21:32:09 IST 2025
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
+"i-0f71cb8711ded088e"
++ aws s3 ls
++ aws iam list-users
+{
+    "Users": []
+}
++ aws lambda list-functions
+{
+    "Functions": []
+}
+++ date
++ echo 'cron is working fine Thu Oct 23 21:33:07 IST 2025'
+cron is working fine Thu Oct 23 21:33:07 IST 2025
++ aws ec2 describe-instances
++ jq '.Reservations[].Instances[].InstanceId'
+
+Could not connect to the endpoint URL: "https://ec2.ap-south-1.amazonaws.com/"
++ aws s3 ls
+
+Could not connect to the endpoint URL: "https://s3.ap-south-1.amazonaws.com/"
++ aws iam list-users
+
+Could not connect to the endpoint URL: "https://iam.amazonaws.com/"
++ aws lambda list-functions
+
+Could not connect to the endpoint URL: "https://lambda.ap-south-1.amazonaws.com/2015-03-31/functions"
+++ date
++ echo 'cron is working fine Fri Oct 24 02:32:10 IST 2025'
+cron is working fine Fri Oct 24 02:32:10 IST 2025
+{
+    "Users": []
+}
+{
+    "Functions": []
+}
+working fine Fri Nov 14 02:30:06 IST 2025
